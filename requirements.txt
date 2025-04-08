@@ -1,1 +1,6 @@
-
+streamlit
+PyPDF2
+requests
+fpdf
+gspread
+google-auth
